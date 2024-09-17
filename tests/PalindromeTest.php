@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-require 'Palindrome.php';
+require 'src/Palindrome.php';
 
 class PalindromeTest extends TestCase
 {
